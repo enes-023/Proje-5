@@ -1,0 +1,115 @@
+.resimSlider {
+    height: 600px;
+}
+
+body {
+    padding-top: 50px;
+    font-family: "Raleway", sans-serif;
+}
+
+.hakkimizda {
+    background-color: #f2f2f2;
+}
+
+.ayrac {
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ibeyaz {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #ffff;
+    background-color: #ffff;
+}
+
+.igri {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.ekipCard>img:hover {
+    opacity: 0.8;   
+}
+
+.galeri {
+    background-color: #f2f2f2;
+}
+
+.figure:hover {
+    opacity: 0.8;
+}
+
+.iletisim {
+    background-color: #fff;
+}
+
+.iletisim form {
+    margin-top: 30px;
+}
+
+.iletisim label {
+    font-size: 20px;
+    color: #666;
+}
+
+.iletisim input {
+    height: 48px;
+    border-radius: 5px;
+}
+
+.iletisim textarea {
+    border-radius: 10px;
+}
+
+.iletisim .mesaj-alani {
+    width: 100%;
+    padding-left: 0;
+    margin-left: 0;
+    text-align: left;
+}
+
+.iletisim .mesaj-alani label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.iletisim .mesaj-kutusu {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 10px;
+    resize: vertical;
+}
+
+.iletisim .form-group {
+    margin-bottom: 20px;
+}
+
+.iletisim button {
+    height: 48px;
+    font-size: 18px;
+}
+
+.iletisim .btn-gonder {
+    width: 100%;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    box-shadow: none;
+}
+
+.iletisim .btn-gonder:hover {
+    background-color: #0069d9;
+    color: #fff;
+}
